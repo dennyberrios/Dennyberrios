@@ -1,8 +1,8 @@
 ### Olá eu sou o Danny, É um prazer recebê-lo em meu perfil. </h2>
 <div align="center">
   <a href="https://github.com/dennyberrios">
-  <img whidt="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=dennyberrios&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennyberrios&layout=compact&langs_count=7&theme=radical"/>
+  <img whidt="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=dennyberrios&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img  width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennyberrios&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <h3>Minhas SKills</h3>
   <div style="display: inline_block"><br>
