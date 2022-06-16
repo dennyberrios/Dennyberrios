@@ -1,4 +1,7 @@
-### Olá eu sou o Danny, É um prazer recebê-lo em meu perfil. </h2>
+### 👋 Olá eu sou o Danny, É um prazer recebê-lo em meu perfil. 
+- 🔭 Desenvolvo projetos web FullStack
+- 🌱 Atualmente estou estudando: Bootstrap | JS | React JS | React Native | java | C#
+- 😄 Pronomes: ele/dele
 <br><br>
 <div align="center">
   <a href="https://github.com/dennyberrios">
